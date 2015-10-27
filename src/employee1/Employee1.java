@@ -20,7 +20,7 @@ public class Employee1 {
      */
     public static void main(String[] args) {
    salary = 1000;
-   System.out.println(DEPARTMENT + "\s average salary is :" +salary);
+   System.out.println(DEPARTMENT + "\s average salaryyyy is :" +salary);
    
                
         
