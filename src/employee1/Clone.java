@@ -18,6 +18,7 @@ public class Clone {
     
     public void setAge( int age) {
         cloneAge = age;
+        System.out.println("Passed age is:  " +age);
     }
     
     public int getAge( ) {
