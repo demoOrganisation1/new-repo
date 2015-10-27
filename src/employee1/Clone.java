@@ -7,7 +7,7 @@ package employee1;
 
 /**
  *
- * @author ADARSH
+ * @author Akshai
  */
 public class Clone {
     int cloneAge;
